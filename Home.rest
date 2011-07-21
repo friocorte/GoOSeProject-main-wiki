@@ -6,4 +6,4 @@
 
 ----------
 
-[[Administriva|administriva]]
+[[Administrivia|administrivia]]
