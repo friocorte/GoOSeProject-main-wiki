@@ -4,7 +4,7 @@ Things to Look Into for GoOSe Infrastructure
 Overall GoOSe Tools
 -------------------
 * account management
- * need to build ties to GitHub, Google apps for our domain, our infrastructure
+  * need to build ties to GitHub, Google apps for our domain, our infrastructure
 
 Build Tools
 -----------
@@ -15,7 +15,7 @@ Build Tools
 QA Tools
 --------
 * ABI checker -- goozbach has a nebulous idea incorporating mock, ldd, and diff
- * would need an install of the upstream distro, and corresponding entitlements
+  * would need an install of the upstream distro, and corresponding entitlements
 
 Website Stuff
 -------------
