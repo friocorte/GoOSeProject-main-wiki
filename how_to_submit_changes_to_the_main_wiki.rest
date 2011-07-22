@@ -1,0 +1,19 @@
+How to Submit Changes to the Main Wiki
+======================================
+
+These steps need to be fleshed out.
+
+1. Fork the [[GoOSe Project main wiki repo|https://github.com/gooseproject/GoOSeProject-main-wiki]] using github.
+
+2. Git clone your fork to your machine
+     git clone <repo>
+
+3. Make your edits. You should use the extension '.rest' for your documents, and refer to them in links without the extension \[\[foo link|foo\]\]
+
+4. Git commit and push your changes
+     git commit -am "some changes"
+     git push
+
+5. Make a GitHub [[Pull Request|http://help.github.com/send-pull-requests/]]
+
+6. We'll take it from there
