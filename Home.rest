@@ -4,6 +4,7 @@
 
 [[Goose Project Infrastructure|gooseproject_infrastructure]]
 
+[[How We did it|how_we_did_it]]
 ----------
 
 [[Administrivia|administrivia]]
