@@ -1,0 +1,56 @@
+TODO
+====
+
+* build backup tool
+  
+   * for each github repo; check if it's in my backup location; if local, git pull, else git clone;
+
+   * no need to worry abt lookaside cache other than setup as this is generated from upstream SRPMS
+
+* Account Management Tools
+
+  * User account on all servers, group setup
+
+  * SSH pubkey for acct access to lookaside and servers
+
+  * SSL Cert for Koji, and koji acct in DB
+
+  * *FUTURE* -- Directory Service of some sort
+
+* Dependancy Tree builder
+
+  * input -- directory of RPMS/SRPMS
+
+  * output -- Directed acyclic graph of build order
+
+* Build System automation
+
+  * koji controller -- uses dependancy tree builder output to determine workorder
+
+  * github hook -- start a build on push to github for certian repos
+
+    * need way to distinguish pkg repos from other
+
+  * message queue for handling build success/fail -- QA system takes package on pass, build team takes package on fail
+
+* Documentation
+
+  * lots of stuff
+ 
+  * if you've built something for GoOSe Project it needs a document
+
+* QA system
+ 
+  * tracking removal of upstream tradmarks
+
+* status page
+
+  * # pkgs built
+
+  * tasks assigned
+
+  * tasks unassigned
+
+  * tasks completed
+
+
