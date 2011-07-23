@@ -21,7 +21,7 @@ TODO
 
   * input -- directory of RPMS/SRPMS
 
-  * output -- Directed acyclic graph of build order
+  * output -- Directed a-cyclic graph of build order
 
 * Build System automation
 

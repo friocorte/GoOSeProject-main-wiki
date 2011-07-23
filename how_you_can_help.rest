@@ -13,6 +13,8 @@ Documentation
 
 [[How to Submit Changes to the Main Wiki|how_to_submit_changes_to_the_main_wiki]]
 
+[[Blog about stuff|blog_topics]]
+
 TODO
 ----
 

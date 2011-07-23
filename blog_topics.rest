@@ -1,0 +1,12 @@
+Blog Topics
+===========
+
+* backup tool
+
+* how to install/configure Koji
+
+* Announce you're working with GoOSe Project
+
+* How to do anything you've created for GoOSe Project infrastructure
+
+* Any "Cool Problem" we need to solve as part of our project
