@@ -15,7 +15,7 @@ Build Tools
 
 * Pungi -- composing tool
 
-* kiwi -- another composing tool which can do iso, usb, EC2, etc.
+* kiwi -- another composing tool which can do iso, USB, EC2, etc.
 
 QA Tools
 --------
