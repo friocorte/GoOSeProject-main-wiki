@@ -53,4 +53,7 @@ TODO
 
   * tasks completed
 
+* Bug tracker aggregator
+
+  * aggregates the issues from all the different github projects into one place
 
